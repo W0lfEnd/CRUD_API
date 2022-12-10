@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "mongodb": "^3.2.6",
     "post-parser": "^1.0.0",
     "body-parser": "latest"
